@@ -7,7 +7,7 @@ const Nav = () => {
     {
       id: 0,
       name: "Home",
-      href: "#"
+      href: "/"
     },
     {
       id: 1,
