@@ -17,6 +17,11 @@ const Nav = () => {
     },
     {
       id: 2,
+      name: "Gallery",
+      href: "#Gallery"
+    },
+    {
+      id: 3,
       name: "Contact",
       href: "#Contact"
     }
